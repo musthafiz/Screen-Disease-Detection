@@ -1,0 +1,24 @@
+Original Data For 5 Class
+
+Total Original Data = 971
+
+Acne_Disease Found 372 images.
+Eczema Found 274 images.
+Melanoma Found 146 images.
+Tinea Found 108 images.
+VittiligoFound 71 images.
+
+Augmented Data for 5 Class
+
+Total augmented Data =14,044
+
+Acne_Disease Found 3136 images.
+Eczema Found 3046 images.
+Melanoma Found 2902 images.
+Tinea Found 2656 images.
+VittiligoFound 2304 images.
+
+Data Split Portion
+
+train_percent = 0.7, valid_percent = 0.2, test_percent = 0.1 
+
